@@ -9,7 +9,7 @@
     "@nocobase/flow-engine": "2.0.60",
     "@nocobase/sdk": "2.0.60",
     "@nocobase/shared": "2.0.60",
-    "i18next": "^22.4.9",
+    "i18next": "^26.3.4",
     "react-router-dom": "^6.30.1"
   }
 }
